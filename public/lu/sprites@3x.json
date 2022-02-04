@@ -1,37 +1,9 @@
 {
-  "gb": {
-    "height": 75,
-    "pixelRatio": 3,
-    "width": 144,
-    "x": 0,
-    "y": 0
-  },
-  "gw": {
-    "height": 75,
-    "pixelRatio": 3,
-    "width": 144,
-    "x": 144,
-    "y": 0
-  },
-  "odot": {
-    "height": 75,
-    "pixelRatio": 3,
-    "width": 144,
-    "x": 0,
-    "y": 75
-  },
-  "pdot": {
-    "height": 75,
-    "pixelRatio": 3,
-    "width": 144,
-    "x": 144,
-    "y": 75
-  },
   "yg": {
-    "height": 75,
+    "height": 228,
     "pixelRatio": 3,
-    "width": 144,
+    "width": 432,
     "x": 0,
-    "y": 150
+    "y": 0
   }
 }
