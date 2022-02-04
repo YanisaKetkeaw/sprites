@@ -1,0 +1,23 @@
+{
+  "protea": {
+    "height": 512,
+    "pixelRatio": 1,
+    "width": 512,
+    "x": 0,
+    "y": 0
+  },
+  "rose": {
+    "height": 512,
+    "pixelRatio": 1,
+    "width": 512,
+    "x": 512,
+    "y": 0
+  },
+  "sisyrinchium": {
+    "height": 512,
+    "pixelRatio": 1,
+    "width": 512,
+    "x": 0,
+    "y": 512
+  }
+}
