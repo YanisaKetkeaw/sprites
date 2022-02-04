@@ -1,23 +1,37 @@
 {
-  "protea": {
-    "height": 512,
+  "gb": {
+    "height": 25,
     "pixelRatio": 1,
-    "width": 512,
+    "width": 48,
     "x": 0,
     "y": 0
   },
-  "rose": {
-    "height": 512,
+  "gw": {
+    "height": 25,
     "pixelRatio": 1,
-    "width": 512,
-    "x": 512,
+    "width": 48,
+    "x": 48,
     "y": 0
   },
-  "sisyrinchium": {
-    "height": 512,
+  "odot": {
+    "height": 25,
     "pixelRatio": 1,
-    "width": 512,
+    "width": 48,
     "x": 0,
-    "y": 512
+    "y": 25
+  },
+  "pdot": {
+    "height": 25,
+    "pixelRatio": 1,
+    "width": 48,
+    "x": 48,
+    "y": 25
+  },
+  "yg": {
+    "height": 25,
+    "pixelRatio": 1,
+    "width": 48,
+    "x": 0,
+    "y": 50
   }
 }
