@@ -1,9 +1,16 @@
 {
-  "gw": {
+  "odot": {
     "height": 280,
     "pixelRatio": 2,
     "width": 280,
     "x": 0,
+    "y": 0
+  },
+  "pdot": {
+    "height": 280,
+    "pixelRatio": 2,
+    "width": 280,
+    "x": 280,
     "y": 0
   }
 }
